@@ -17,7 +17,7 @@ function Main() {
                 Я согласен с политикой конфиденциальности и условиями пользование.
                 </p>
             </div>
-            <button className='w-96 ml-14 mt-14 h-9 text-slate-50 bg-blue-600 rounded border-none'>Войти</button>
+            <button className='w-96 ml-14 mt-14 h-10 text-slate-50 bg-blue-600 rounded border-none'>Войти</button>
             <h3 className='text-sky-700 mt-9 ml-14 text-lg cursor-pointer'>Уже есть аккаунт</h3>
         </main>
     </div>
